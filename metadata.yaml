@@ -11,3 +11,5 @@ versions:
     changeNotes: Corrected license format
   - sha: 6c68e2f84a4e82cdd128985a57c2ef0305e26e49
     changeNotes: Corrected metadata extension
+  - sha: 652e9369805ab6234c0e4f050b606bfb7677f21f
+    changeNotes: Corrected template filename
