@@ -9,3 +9,5 @@ versions:
     changeNotes: Corrected repository license
   - sha: 3c95d9414898baa47555ee9aebe44278fea5725b
     changeNotes: Corrected license format
+  - sha: 6c68e2f84a4e82cdd128985a57c2ef0305e26e49
+    changeNotes: Corrected metadata extension
