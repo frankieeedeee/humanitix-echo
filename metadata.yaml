@@ -15,3 +15,5 @@ versions:
     changeNotes: Corrected template filename
   - sha: aa5d9b65f8353035be932466aca2105bfe1fbeb2
     changeNotes: Corrected category format
+  - sha: 44d9832b582a4756cbb569ec9d98b36599a713b5
+    changeNotes: Updated template categories
