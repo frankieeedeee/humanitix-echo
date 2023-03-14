@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Humanitix Echo",
-  "categories": ["ANALYTICS", "ATTRIBUTION", "CONVERSIONS", "UTILITY"],
+  "categories": ["CONVERSIONS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
@@ -144,6 +144,6 @@ scenarios:
 
 ___NOTES___
 
-Created on 13/03/2023, 16:04:25
+Created on 14/03/2023, 15:36:22
 
 
