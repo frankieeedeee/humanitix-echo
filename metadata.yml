@@ -1,3 +1,5 @@
 homepage: "https://www.humanitix.com"
 documentation: "https://humanitix.atlassian.net/servicedesk/customer/portal/2/article/1569849347"
 versions:
+  - sha: edaed149ae62545532f35ffceb68d9305ff22137
+    changeNotes: Initial release
