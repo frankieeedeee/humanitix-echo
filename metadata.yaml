@@ -13,3 +13,5 @@ versions:
     changeNotes: Corrected metadata extension
   - sha: 652e9369805ab6234c0e4f050b606bfb7677f21f
     changeNotes: Corrected template filename
+  - sha: aa5d9b65f8353035be932466aca2105bfe1fbeb2
+    changeNotes: Corrected category format
