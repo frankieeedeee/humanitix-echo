@@ -1,19 +1,5 @@
 homepage: "https://www.humanitix.com"
 documentation: "https://humanitix.atlassian.net/servicedesk/customer/portal/2/article/1569849347"
 versions:
-  - sha: edaed149ae62545532f35ffceb68d9305ff22137
-    changeNotes: Initial release
-  - sha: a276325059946b2b07cef86387c30696a4cbf343
-    changeNotes: Added repository license
-  - sha: d24f905721c9b647d9363c794d2b831ca0b3021e
-    changeNotes: Corrected repository license
-  - sha: 3c95d9414898baa47555ee9aebe44278fea5725b
-    changeNotes: Corrected license format
-  - sha: 6c68e2f84a4e82cdd128985a57c2ef0305e26e49
-    changeNotes: Corrected metadata extension
-  - sha: 652e9369805ab6234c0e4f050b606bfb7677f21f
-    changeNotes: Corrected template filename
-  - sha: aa5d9b65f8353035be932466aca2105bfe1fbeb2
-    changeNotes: Corrected category format
   - sha: 44d9832b582a4756cbb569ec9d98b36599a713b5
-    changeNotes: Updated template categories
+    changeNotes: Initial release
