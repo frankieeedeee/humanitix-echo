@@ -3,3 +3,5 @@ documentation: "https://humanitix.atlassian.net/servicedesk/customer/portal/2/ar
 versions:
   - sha: edaed149ae62545532f35ffceb68d9305ff22137
     changeNotes: Initial release
+  - sha: a276325059946b2b07cef86387c30696a4cbf343
+    changeNotes: Added repository license
