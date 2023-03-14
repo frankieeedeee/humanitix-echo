@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Humanitix Echo",
-  "categories": ["ANALYTICS", "ATTRIBUTION", "CONVERSIONS", "UTILITY"]
+  "categories": ["ANALYTICS", "ATTRIBUTION", "CONVERSIONS", "UTILITY"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
