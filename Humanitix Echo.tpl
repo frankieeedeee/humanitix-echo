@@ -42,7 +42,7 @@ ___TEMPLATE_PARAMETERS___
 ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 
 // Define constants
-const echoListenerScriptURL = 'https://static.humanitix.com/hx-echo.js';
+const echoListenerScriptURL = 'https://static.humanitix.com/ticketing/echo.js';
 
 // Configure requirements
 const logToConsole = require('logToConsole');
