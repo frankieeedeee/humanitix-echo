@@ -5,3 +5,5 @@ versions:
     changeNotes: Initial release
   - sha: a276325059946b2b07cef86387c30696a4cbf343
     changeNotes: Added repository license
+  - sha: d24f905721c9b647d9363c794d2b831ca0b3021e
+    changeNotes: Corrected repository license
